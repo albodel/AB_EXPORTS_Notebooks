@@ -1,0 +1,21 @@
+﻿Infrakingdom,Phylum,Class,Order_Suborder,Category,RR1,RR4,RR5,RR6,RR7,RR8,RR9,RR10,RR11,RR23,RR24,RR25,RR26,RR27,RR28,RR29,RR30,RR31,RR32,RR33,RR53,RR54,RR55,RR56,RR57,RR58,RR59,RR60,RR61,RR62
+metadata,metadata,metadata,metadata,Fields,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+metadata,metadata,metadata,metadata,m2perfield,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113,0.0113
+metadata,metadata,metadata,metadata,Elapsed_Time_(days),5.65,5.65,5.65,4.95,4.84,4.69,4.7,4.76,5.27,4.34,4.34,4.34,4.34,4.34,3.13,3.13,3.23,3.06,2.8,4.08,4,3.916666667,4.145833333,4.006944444,4.979166667,5.334722222,5.334722222,5.334722222,5.631944444,5.334722222
+metadata,metadata,metadata,metadata,True_Depth_(m),95,330,500,96.2,97.2,159,209,207,342,105,155,205,340,510,101,103,152,199,203,337,104,104,147,198,334,105,155,205,340,510
+metadata,metadata,metadata,metadata,Trap_Type,STT,STT,STT,NBST,NBST,NBST,NBST,NBST,NBST,STT,STT,STT,STT,STT,NBST,NBST,NBST,NBST,NBST,NBST,NBST,NBST,NBST,NBST,NBST,STT,STT,STT,STT,STT
+metadata,metadata,metadata,metadata,Epoch,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3
+Heterokonta,Ochrophyta,Bacillariophyta,Coscinodiscales,Coscinodiscus,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heterokonta,Ochrophyta,Bacillariophyta,Rhizosoleniales ,Rhizosolenia__Fragment,149,770,2604,61,50,21,229,553,378,37,41,338,504,295,17,22,39,66,175,246,26,9,57,8,126,26,21,189,189,342
+Heterokonta,Ochrophyta,Bacillariophyta,Rhizosoleniales ,Rhizosolenia_Whole,12,67,7,35,107,7,95,34,32,21,18,188,251,137,22,27,31,36,71,178,81,25,4,37,157,13,17,39,111,26
+Heterokonta,Ochrophyta,Bacillariophyta,Thalassiosirales,Planktoniella,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0
+Rhizaria,Radiozoa,Acantharea,Acantharia,Acantharia_B,0,0,0,0,0,0,1,1,0,0,2,1,3,0,0,0,0,2,0,0,0,0,1,0,0,0,0,2,1,0
+Rhizaria,Radiozoa,Acantharea,Acantharia,Acantharia_red,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rhizaria,Radiozoa,Acantharea,Acantharia,Acantharia_B_small,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rhizaria,Radiozoa,Polycystina,Nasselaria(subord),Litharachnium,0,4,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Rhizaria,Radiozoa,Polycystina,Spumellaria(subord),Cladococcus,7,3,0,3,4,3,3,16,2,1,0,4,5,0,0,0,1,1,1,2,50,19,29,12,24,45,46,34,34,9
+Rhizaria,Radiozoa,Polycystina,Spumellaria(subord),Spumellaria_A,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rhizaria,Radiozoa,Polycystina,Spumellaria(subord),Spumellaria_D,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Rhizaria,Radiozoa,Polycystina,Spumellaria(subord),Spumellaria_Girded,1,8,1,0,0,0,0,0,0,3,0,2,2,1,0,0,0,0,0,1,0,0,0,0,0,3,3,12,7,1
+Rhizaria,Radiozoa,Polycystina,Spumellaria(subord),Spumellaria_Tiny_C,0,1,2,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Rhizaria,Sarcodina,Foraminifera,Foraminifera,Foraminifera,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
